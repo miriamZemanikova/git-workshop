@@ -2,24 +2,24 @@
 <rss version="2.0">
 
 <channel>
-    <title><!-- moje meno --> dennÃ­k</title>
-    <description>Programovanie, 11.4.2017</description>
+    <title><!-- moje meno --> denník</title>
+    <description>Èo som robil vèera, 11.4.2017</description>
     <item>
-        <author><!-- Miriam --></author>
-        <pubDate>8:<!-- 40 --></pubDate>
-        <title><!-- Java --></title>
-        <site><!-- doma --></site>
-    </item>
-    <item>
-        <author><!-- Miriam --></author>
-        <pubDate>12:<!-- minÃºtu si vymyslite --></pubDate>
-        <title><!-- popis Äo som robil --></title>
+        <author><!-- Honza --></author>
+        <pubDate>8:<!-- minútu si vymyslite --></pubDate>
+        <title><!-- popis èo som robil --></title>
         <site><!-- kde som vtedy bol --></site>
     </item>
     <item>
+        <author><!-- Peter --></author>
+        <pubDate>12:<!-- minútu si vymyslite --></pubDate>
+        <title><!-- spieval--></title>
+        <site><!-- uz neviem --></site>
+    </item>
+    <item>
         <author><!-- moje meno --></author>
-        <pubDate>18:<!-- minÃºtu si vymyslite --></pubDate>
-        <title><!-- popis Äo som robil --></title>
+        <pubDate>18:<!-- minútu si vymyslite --></pubDate>
+        <title><!-- tancoval --></title>
         <site><!-- kde som vtedy bol --></site>
     </item>
 </channel>
